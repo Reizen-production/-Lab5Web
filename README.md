@@ -1,1 +1,61 @@
-# -Lab5Web
+# Lab5Web
+# Pengenalan Javascript
+- Kita buat kerangka code seperti ini
+- <img src=Lab5Web/1.0.png>
+- dan hasilnya seperti berikut, kita cek di f12 nya untuk melihat info seperti yang saya lakukan
+- <img src=Lab5Web/1.png>
+- next, kita membuat windows alert, scriptnya seperti berikut :
+- <img src=Lab5Web/2.0.png>
+- jangan takut jika ada yg merah di codingannya, coba run saja, maka hasilnya akan seperti berikut :
+- <img src=Lab5Web/2.png>
+- kemudian ada penggunaan menthod dalam objek, seperti berikut sc nya
+- <img src=Lab5Web/3.0.png>
+- <img src=Lab5Web/3.png>
+- next, kita belajar prompt, sc nya seperti berikut
+- <img src=Lab5Web/4.0.png>
+- nah saat di run, maka akan muncul seperti berikut
+- <img src=Lab5Web/4.png>
+- kita isi nama kita, seperti berikut
+- <img src=Lab5Web/4-1.png>
+- dan ketika di enter, akan menjadi seperti ini
+- <img src=Lab5Web/4-2.png>
+- next, membuat fungsi dan cara pemanggilannya, berikut sc nya
+- <img src=Lab5Web/5.0.png>
+- <img src=Lab5Web/5.png>
+# Dasar Pemrograman di Javascript
+- Operasi aritmatika, berikut sc nya
+- <img src=Lab5Web/6.0.png>
+- <img src=Lab5Web/6.png>
+- kita klik arithmetic, maka akan otomatis muncul 
+- <img src=Lab5Web/6.1.png>
+- kita mencoba kondisi if else, berikut contoh sc nya
+- <img src=Lab5Web/7.0.png>
+- nah, kita masukan nilai, jika nilai > 60 maka akan lulus, jika nilai < 60 , akan muncul hasil tidak lulus
+- <img src=Lab5Web/7.png>
+- <img src=Lab5Web/7-1.png>
+- next, operator switch dalam javascript, sc nya seperti berikut
+- <img src=Lab5Web/8.png>
+- <img src=Lab5Web/8-1.png>
+- setelah kita run, kita disuruh memasukan bilangan, kita masukan diantara 1-5, maka hasilnya
+- <img src=Lab5Web/8-2.png>
+# Membuat Form Input
+- Untuk membuat form ini, ikuti sc berikut:
+- <img src=Lab5Web/9.0.png>
+- <img src=Lab5Web/9.png>
+- tinggal masukan saja angkanya, maka kolom di sebelah kanan akan otomatis terisi apakah bilangan tersebut ganjil atau genap
+- next, form button, sc nya seperti berikut
+- <img src=Lab5Web/10.0.png>
+- <img src=Lab5Web/10.png>
+- nah, dapat dilihat di tempat yang di garis merahi, dia akan selalu update ketika kita klik button tersebut lalu me refresh html kita
+- next, check box dengan perhitungan otomatis, disini kita dapat menghitung otomatis hanya dengan mengisi check box, berikut sc nya
+- <img src=Lab5Web/11.0.png>
+- <img src=Lab5Web/11.png>
+- nah disini bisa di coba untuk mengisi checkboxnya, jika kita uncheck, maka nilainya akan berkurang juga
+- # Pertanyaan
+- Buat script untuk melakukan validasi pada isian form
+- sc nya seperti berikut
+- <img src=Pertanyaan/1.0.png>
+- <img src=Pertanyaan/1.1.png>
+- hasilnya
+- <img src=Pertanyaan/1.png>
+- jika kita tidak mengisi salah satu dari form tersebut, akan muncul pop up pemberitahuan eror atau peringatan untuk mengisi form yang kosong tersebut.
